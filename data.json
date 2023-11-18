@@ -1,0 +1,70 @@
+[{
+        username: 'monkeykingdom.nvt@gmail.com',
+        password: 'monkeykingdom@123',
+        paypalUsername: 'nvtrong.1906@gmail.com',
+        email:'monkeykingdom.nvt@gmail.com',
+        paypalPassword: '***',
+        countryResidence: 'VIET',
+        office: 'Vietnam, Ho Chi Minh City',#Vietnam, Ho Chi Minh City / Vietnam, Hanoi
+        country: 'VIET',
+        add1: '11 random str',
+        add2: '',
+        town: 'ward ta',
+        province: 'VNSG',
+        postalcode: '700000',
+        homephone: '849799999',
+        businessphone: '',
+        mobile: '849799999',
+        qualification: '18',
+        coursename: 'Language engineering',
+        institute: 'USSH',
+        countryofinstitution: 'VIET',
+        educationdatefrom: '11 Nov 2019',
+        educationdateto: '11 Nov 2022',
+        educationstatus: '4',
+        usualoccupation: 'Office',
+        industrialtype: 'H',
+        englishType: 'IELTS',
+        englishDateOfTest: '10 Apr 2023',
+        englishRefNo: 'E235162',
+        englishCountry: 'VIET',
+        englishAbility: 'P',
+        mainLanguage: '6302A',
+        travelDocuments: [{
+            "documentType": "DT132",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }, {
+            "documentType": "DT127",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }],
+        photographDocuments: [{
+            "documentType": "DT136",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }, {
+            "documentType": "DT127",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }],
+        fundDocuments: [{
+            "documentType": "DT010",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }, {
+            "documentType": "DT127",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }],
+        englishDocuments: [{
+            "documentType": "DT335",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }],
+        qualificationDocuments: [{
+            "documentType": "DT041",
+            "desc": "image",
+            "docPath": "/images/cat.jpeg"
+        }]
+    }]
